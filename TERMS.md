@@ -1,6 +1,6 @@
 # Logos Lambda Prize Program – Terms & Conditions
 
-*Last updated: 2 March 2026*
+*Last updated: 17 July 2026*
 
 These Terms and Conditions ("Terms") are entered into by and between Logos Collective Association, Baarerstrasse 10, 6300 Zug, Switzerland ("Logos", "we", "us") and any individual or legal entity participating in the λ Prize Program, including by submitting any solution or pull request ("Submission") to the λ Prize GitHub repository ("you", "Participant") (each a "Party" and together the "Parties").
 
@@ -70,8 +70,9 @@ A valid Submission must satisfy all of Logos' requirements set out in the releva
 
 1. source code hosted in a public repository;
 2. a working demo or deployable artefact;
-3. adequate technical documentation and any other specified documentation indicated; and
-4. any other requirements indicated by Logos.
+3. a recorded demo or walkthrough video of the Submission;
+4. adequate technical documentation and any other specified documentation indicated; and
+5. any other requirements indicated by Logos.
 
 Logos reserves the right to not review any incomplete or partial Submissions or Submissions which do not meet all mandatory requirements in the applicable Prize specification.
 
@@ -92,6 +93,8 @@ Subject to the licences granted below, Participants retain ownership of the inte
 ### 6.2 Licence to Logos
 
 By making a Submission, Participants grant Logos and its Affiliates a worldwide, perpetual, irrevocable, non‑exclusive, royalty‑free licence (with the right to sublicense) to use, reproduce, display, perform, distribute, adapt, modify, and create derivative works from Participant's Submission and related materials for purposes connected with the Program, the Logos technology stack, and the broader Logos ecosystem, including without limitation for testing, evaluation, promotion, documentation, and demonstration.
+
+Submissions include videos and related audiovisual materials. By making a Submission, Participants grant Logos and its Affiliates the right to use, reproduce, display, perform, distribute, and publish those materials, including on Logos' and its Affiliates' websites, social media channels, and other promotional channels, for purposes connected with the Program and the broader Logos ecosystem. Participants warrant that they have all rights necessary to grant this permission, including in respect of any likeness, voice, or third‑party content appearing in such materials.
 
 ## 7. Evaluation and judging
 
