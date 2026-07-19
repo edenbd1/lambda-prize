@@ -92,9 +92,7 @@ Subject to the licences granted below, Participants retain ownership of the inte
 
 ### 6.2 Licence to Logos
 
-By making a Submission, Participants grant Logos and its Affiliates a worldwide, perpetual, irrevocable, non‑exclusive, royalty‑free licence (with the right to sublicense) to use, reproduce, display, perform, distribute, adapt, modify, and create derivative works from Participant's Submission and related materials for purposes connected with the Program, the Logos technology stack, and the broader Logos ecosystem, including without limitation for testing, evaluation, promotion, documentation, and demonstration.
-
-Submissions include videos and related audiovisual materials. By making a Submission, Participants grant Logos and its Affiliates the right to use, reproduce, display, perform, distribute, and publish those materials, including on Logos' and its Affiliates' websites, social media channels, and other promotional channels, for purposes connected with the Program and the broader Logos ecosystem. Participants warrant that they have all rights necessary to grant this permission, including in respect of any likeness, voice, or third‑party content appearing in such materials.
+By making a Submission, Participants grant Logos and its Affiliates a worldwide, perpetual, irrevocable, non‑exclusive, royalty‑free licence (with the right to sublicense) to use, reproduce, display, perform, distribute, adapt, modify, and create derivative works from Participant's Submission and related materials (including any video and audiovisual materials) for purposes connected with the Program, the Logos technology stack, and the broader Logos ecosystem, including without limitation for testing, evaluation, promotion, documentation, demonstration and as the case may be, publishing on any of Logos' or Affiliates' websites, social media profiles or other public channels.
 
 ## 7. Evaluation and judging
 
