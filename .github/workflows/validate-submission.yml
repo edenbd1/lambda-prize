@@ -34,6 +34,12 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           path: pr
           persist-credentials: false
+          # actions/checkout v4.4.0 (2026-07-20) backported a guard that refuses
+          # to check out fork PR code from a pull_request_target workflow. This
+          # step only reads the checked-out files as data and never executes
+          # them, and it already drops credentials, so opting in restores the
+          # previous behaviour without widening what the workflow trusts.
+          allow-unsafe-pr-checkout: true
 
       - name: Get changed files
         id: changed
